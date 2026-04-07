@@ -1,0 +1,22 @@
+{
+  "name": "complex-node-app",
+  "version": "1.0.0",
+  "description": "This is simple node app - code coverage using mocha, chai, sinon",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "bt.y2j.19@gmail.com",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "sinon": "^21.0.3",
+    "supertest": "^7.2.2"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
