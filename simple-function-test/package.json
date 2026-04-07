@@ -1,0 +1,27 @@
+{
+  "name": "bt-tdd-approach-unit-test-cases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function-stub.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavinthaker-bt/bt-tdd-approach-unit-test-cases.git"
+  },
+  "keywords": ["code coverage","mocha", "chai", "sinon"],
+  "author": "bt.y2j.19@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavinthaker-bt/bt-tdd-approach-unit-test-cases/issues"
+  },
+  "homepage": "https://github.com/bhavinthaker-bt/bt-tdd-approach-unit-test-cases#readme",
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "sinon": "^21.0.3"
+  }
+}
